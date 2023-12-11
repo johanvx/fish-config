@@ -34,3 +34,6 @@ abbr -a -- gsw 'git switch'
 
 # tmux
 abbr -a -- t 'tmux'
+
+# micromamba
+abbr -a -- mm 'micromamba'
