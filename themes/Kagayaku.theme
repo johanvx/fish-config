@@ -1,0 +1,39 @@
+# Syntax highlighting colors
+fish_color_normal white
+fish_color_command green
+fish_color_keyword magenta
+fish_color_quote cyan
+fish_color_redirection yellow
+fish_color_end brblack
+fish_color_error red
+fish_color_param yellow
+fish_color_valid_path yellow
+fish_color_option yellow
+fish_color_comment blue
+fish_color_selection --background brblack
+fish_color_operator white
+fish_color_escape white
+fish_color_autosuggestion brblack
+fish_color_cwd cyan
+fish_color_cwd_root cyan
+fish_color_user magenta
+fish_color_host blue
+fish_color_host_remote blue
+fish_color_status red
+fish_color_cancel white
+fish_color_search_match --background yellow
+
+# Pager color variables
+fish_pager_color_progress yellow
+fish_pager_color_background black
+fish_pager_color_prefix cyan
+fish_pager_color_completion brblack
+fish_pager_color_description white
+fish_pager_color_selected_background brblack
+fish_pager_color_selected_prefix cyan --bold
+fish_pager_color_selected_completion white --bold
+fish_pager_color_selected_description brwhite --bold
+fish_pager_color_secondary_background black
+fish_pager_color_secondary_prefix cyan
+fish_pager_color_secondary_completion brblack
+fish_pager_color_secondary_description white
