@@ -13,6 +13,13 @@ abbr -a -- lt 'eza --tree'
 abbr -a -- ll 'eza --header --git -lh'
 abbr -a -- lla 'eza --header --git -alh'
 abbr -a -- tree 'eza --tree'
+abbr -a -- il 'eza --icons auto'
+abbr -a -- ils 'eza --icons auto'
+abbr -a -- ila 'eza --icons auto -a'
+abbr -a -- ilt 'eza --icons auto --tree'
+abbr -a -- ill 'eza --icons auto --header --git -lh'
+abbr -a -- illa 'eza --icons auto --header --git -alh'
+abbr -a -- itree 'eza --icons auto --tree'
 
 # git
 abbr -a -- g git
@@ -22,6 +29,7 @@ abbr -a -- gco 'git checkout'
 abbr -a -- gcp 'git cherry-pick'
 abbr -a -- gdf 'git diff'
 abbr -a -- gdft 'git difftool'
+abbr -a -- gfe 'git fetch'
 abbr -a -- glog 'git log'
 abbr -a -- gpl 'git pull'
 abbr -a -- gpr 'git prune'
@@ -41,3 +49,6 @@ abbr -a -- t tmux
 
 # micromamba
 abbr -a -- mm micromamba
+
+# zellij
+abbr -a -- zlj zellij
