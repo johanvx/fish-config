@@ -10,15 +10,15 @@ abbr -a -- l eza
 abbr -a -- ls eza
 abbr -a -- la 'eza -a'
 abbr -a -- lt 'eza --tree'
-abbr -a -- ll 'eza --header --git --group -lh'
-abbr -a -- lla 'eza --header --git --group -alh'
+abbr -a -- ll 'eza --git -lgh'
+abbr -a -- lla 'eza --git -algh'
 abbr -a -- tree 'eza --tree'
 abbr -a -- il 'eza --icons auto'
 abbr -a -- ils 'eza --icons auto'
 abbr -a -- ila 'eza --icons auto -a'
 abbr -a -- ilt 'eza --icons auto --tree'
-abbr -a -- ill 'eza --icons auto --header --git --group -lh'
-abbr -a -- illa 'eza --icons auto --header --git --group -alh'
+abbr -a -- ill 'eza --icons auto --git -lgh'
+abbr -a -- illa 'eza --icons auto --git -algh'
 abbr -a -- itree 'eza --icons auto --tree'
 
 # git
